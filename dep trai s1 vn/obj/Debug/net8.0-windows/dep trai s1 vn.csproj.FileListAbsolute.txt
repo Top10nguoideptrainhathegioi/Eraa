@@ -1,0 +1,17 @@
+D:\dep trai s1 vn\bin\Debug\net8.0-windows\dep trai s1 vn.exe
+D:\dep trai s1 vn\bin\Debug\net8.0-windows\dep trai s1 vn.deps.json
+D:\dep trai s1 vn\bin\Debug\net8.0-windows\dep trai s1 vn.runtimeconfig.json
+D:\dep trai s1 vn\bin\Debug\net8.0-windows\dep trai s1 vn.dll
+D:\dep trai s1 vn\bin\Debug\net8.0-windows\dep trai s1 vn.pdb
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep_trai_s1_vn.Form1.resources
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep_trai_s1_vn.Properties.Resources.resources
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.csproj.GenerateResource.cache
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.GeneratedMSBuildEditorConfig.editorconfig
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.AssemblyInfoInputs.cache
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.AssemblyInfo.cs
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.csproj.CoreCompileInputs.cache
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.dll
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\refint\dep trai s1 vn.dll
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.pdb
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\dep trai s1 vn.genruntimeconfig.cache
+D:\dep trai s1 vn\obj\Debug\net8.0-windows\ref\dep trai s1 vn.dll
